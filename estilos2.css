@@ -1,0 +1,33 @@
+	.t1{
+	  font-family: arial, verdana, helvetica, sans-serif;
+  	font-size: 1.5em;
+  	font-weight: bold;
+  	color: #595959;
+  	clear: both;
+  	text-align: right;
+	}
+
+.t2{	
+	  font-size: 1.2em;
+	  font-weight: bold;
+		color: #fff;
+		background-color: #575700;
+	  padding: 0.3em;
+	}
+
+.t3{	
+	  font-size: 1.2em;
+	  font-weight: bold;
+		color: #fff;
+		background-color: #575700;
+	  padding: 0.3em;
+	}
+
+#info_en{
+	  font-size: 1em;
+	  text-align: right;
+	}
+
+#garantias{
+    text-align: left;
+}
